@@ -1,0 +1,67 @@
+1606513957627	geckodriver	INFO	Listening on 127.0.0.1:61268
+1606514774309	geckodriver	INFO	Listening on 127.0.0.1:61467
+1606514860316	geckodriver	INFO	Listening on 127.0.0.1:61509
+1606515317675	geckodriver	INFO	Listening on 127.0.0.1:61671
+1606515488211	geckodriver	INFO	Listening on 127.0.0.1:61712
+1606517229707	geckodriver	INFO	Listening on 127.0.0.1:62033
+1606517404797	geckodriver	INFO	Listening on 127.0.0.1:62185
+1606517407846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Keshini\\AppData\\Local\\Temp\\rust_mozprofilefCUiYD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606517409893	Marionette	INFO	Listening on port 62193
+1606517410023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606517411510	Marionette	INFO	Stopped listening on port 62193
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607101221965	geckodriver	INFO	Listening on 127.0.0.1:51700
+1607101225073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Keshini\\AppData\\Local\\Temp\\rust_mozprofilewTVu9M"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607101228151	Marionette	INFO	Listening on port 51708
+1607101228276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607101230668	Marionette	INFO	Stopped listening on port 51708
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607101360312	geckodriver	INFO	Listening on 127.0.0.1:51809
+1607101363399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Keshini\\AppData\\Local\\Temp\\rust_mozprofileKA4IfY"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607101365317	Marionette	INFO	Listening on port 51817
+1607101365457	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607101367606	Marionette	INFO	Stopped listening on port 51817
+[Parent 3908, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607101559150	geckodriver	INFO	Listening on 127.0.0.1:51899
+1607101562254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Keshini\\AppData\\Local\\Temp\\rust_mozprofileibupCi"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607101564296	Marionette	INFO	Listening on port 51907
+1607101564431	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607101566634	Marionette	INFO	Stopped listening on port 51907
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
